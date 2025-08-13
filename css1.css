@@ -1,0 +1,7 @@
+body{
+     background-image: url("background.jpeg");
+     background-size: cover;/Covers the entire background area/
+     background-position: center;/Centers the image/
+     margin: 0;/Removes any default margin/
+     height: 100vh;/Full viewport height/
+    }
